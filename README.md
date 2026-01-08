@@ -17,9 +17,9 @@ __Please use this badge to open the notebook__: [![Open in Colab](https://colab.
 ## Train Your Own Small Language Model for Text Generation from Scratch, code provided
 In this video, you will learn about tokenizer and how to train small language model for text generation using tror-yong-lm pypi package in python.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kimang18/rag-demo-with-mlx/blob/main/TrorYong_Small_Language_Model_from_Scratch.ipynb)
+__Please use this badge to open the notebook__: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kimang18/rag-demo-with-mlx/blob/main/TrorYong_Small_Language_Model_from_Scratch.ipynb)
 
 ## Train Your Own Speech Transcription Model from Scratch - Code provided
 Learn to train your own speech recognition model from scratch using NeoWhisper pypi package.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kimang18/rag-demo-with-mlx/blob/main/NeoWhisper_cl100k_Train.ipynb)
+__Please use this badge to open the notebook__: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kimang18/rag-demo-with-mlx/blob/main/NeoWhisper_cl100k_Train.ipynb)
