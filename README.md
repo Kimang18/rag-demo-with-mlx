@@ -17,6 +17,10 @@ Your generosity acts as a huge encouragement and helps ensure that I can continu
   <figcaption> Using Cambodian bank account, you can donate by scanning my ABA QR code here. (or click <a href="https://pay.ababank.com/oRF8/8yp6hy53">here</a>. Make sure that receiver's name is 'Khun Kim Ang'.) </figcaption>
 </figure>
 
+## Make TinyLlama Smarter: Reasoning + Tool Calling Fine-Tune
+we dive deep into fine-tuning TinyLlama to bridge the gap between simple text generation and complex tool use. We don't just teach it to call tools; we teach it to reason before acting.
+
+__Please use this badge to open the notebook__: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kimang18/rag-demo-with-mlx/blob/main/Tutorial_TinyLlama_(1_1B)_ToolCalling_Unsloth.ipynb)
 
 ## Train Your Own Speech Transcription Model from Scratch - Code provided
 Learn to train your own speech recognition model from scratch using NeoWhisper pypi package.
