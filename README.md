@@ -17,6 +17,16 @@ Your generosity acts as a huge encouragement and helps ensure that I can continu
   <figcaption> Using Cambodian bank account, you can donate by scanning my ABA QR code here. (or click <a href="https://pay.ababank.com/oRF8/8yp6hy53">here</a>. Make sure that receiver's name is 'Khun Kim Ang'.) </figcaption>
 </figure>
 
+## Vision Transformer Explained and Coded
+In this video, you will learn about Vision Transformer and implement it for image classification using MNIST datasets.
+
+__Please use this badge to open the notebook__: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kimang18/rag-demo-with-mlx/blob/main/VisionTransformer_for_MNIST.ipynb)
+
+## Coding Transformer Decoder Block from Scratch
+In this video, the attention mechanism in Transformers is explained and implemented in PyTorch. The implemented decoder block is tested in GPT2-like LLM for correctness.
+
+__Please use this badge to open the notebook__: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kimang18/rag-demo-with-mlx/blob/main/DecoderBlock_GPT2_Small_Language_Model_from_Scratch.ipynb)
+
 ## Build GPT2-like Language Model from Scratch - Code provided
 In this video, I cover 3 main points: 1) GPT2-architecture, 2) Implementation Language Model, and 3) Discussion on Weight Tying.
 
